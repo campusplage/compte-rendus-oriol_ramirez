@@ -1,5 +1,5 @@
 # Compte rendu pour le cours d'analyse de données multidimensionnelles
-## Indiquez vos Noms et Prénoms ici
+## Oriol Théo et Ramirez Sarah
 
 
 Ce répo contient votre compte-rendu pour les TPs d'analyse de données multidimensionnelles :
